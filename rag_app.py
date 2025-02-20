@@ -13,7 +13,7 @@ index = None
 query_engine = None
 
 # Set up Groq API key
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "GROQ_API_KEY_HERE"
 
 # Initialize Groq LLM and ensure it is used
 # llm = Groq(model="llama-3.3-70b-versatile")
