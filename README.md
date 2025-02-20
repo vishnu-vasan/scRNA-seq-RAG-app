@@ -62,6 +62,17 @@ The Gradio interface will launch in your browser, allowing you to upload files a
 4. Receive LLM-powered responses based on the indexed documents.
 5. Use the **Clear** button to reset the session.
 
+## Example Query and Response
+
+To better understand how the RAG application works, an example input query and response is attached in the [`examples/`](examples/) directory.
+
+### Example:
+**Input Query:**
+[View Full Query](examples/input_query_1.txt)
+
+**Response:**
+[View Full Response](examples/output_response_1.txt)
+
 ## License
 This project is open-source and available under the MIT License.
 
